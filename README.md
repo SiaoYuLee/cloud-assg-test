@@ -5,7 +5,7 @@
 #!/bin/bash
 yum update -y
 yum install git -y
-git clone https://github.com/lowchoonkeat/aws-live.git
+git clone https://github.com/SiaoYuLee/cloud-assg-test.git
 cd aws-live
 pip3 install flask
 pip3 install pymysql
